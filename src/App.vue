@@ -5,9 +5,9 @@
  <div>
   <img class="border-indigo-500/100" src="./assets/images/image-omelette.jpeg" alt="">
   <div>
-    <div>
-      <p class="text-3xl font-bold">Simple Omelette Recipe</p>
-      <p class="text-red-600">An easy and quick dish, perfect for any meal. This classic omelette combines beaten eggs cooked 
+    <div class="bg-lime-900">
+      <p class="text-3xl font-bold">Simple melette Recipe</p>
+      <p>An easy and quick dish, perfect for any meal. This classic omelette combines beaten eggs cooked 
       to perfection, optionally filled with your choice of cheese, vegetables, or meats.</p>
       <div>
         <p class="text-3xl">Peparation time</p>
