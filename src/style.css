@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    body{
+      @apply font-outfit
+    }
+    p {
+      @apply text-sm leading-normal;
+    }    
+    ul{
+        @apply grid gap-1 list-disc list-inside
+    }
+    ol{
+        @apply grid gap-1 list-decimal list-inside
+    }
+    li{
+      @apply text-sm leading-relaxed
+    }
+}
