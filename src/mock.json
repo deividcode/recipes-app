@@ -1,0 +1,272 @@
+{
+  "hits": [
+    {
+      "recipe": [
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8d3e4b9299664a1ca8e6f5bdb8532300",
+          "label": "Rotisserie Chicken Recipe",
+          "image": "https://edamam-product-images.s3.amazonaws.com/web-img/88e/88edb31264dc1e58b37c2fec3f99a244.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLWVhc3QtMSJHMEUCIQDjppfAK4qzjYfLPdCSv0AGDy1yvXfqjWnbFnVL6wvH6AIgVWsuQ3xpRCCxgp5uB%2BKCjUvamrdDB7td493oM6IYtFcqwgUIx%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDCh9DBRlNwuXbdohYCqWBewuInyG%2BtsT7ztASn3HIXC89UwoQrPhxR1hTLxjTdGiRWL6m7BLPHIO%2BrCx7dmKpQ0a1Dds3ZKhNudeofp0fDACz%2F%2Bfdtoau9yV2lmIuIuEvf0hUxg4%2BbJ2nSkzixP1zU2Yg7u0ohOPXJ6FP%2F4j5UyTKIn7AKKVfKEYkSd0BxAh3jSy4jlSiaBZezGE3xhiMkKQU6uOnqiHuMVkYy4Yiza80egTsWgVfBpzUzVoVldioQuSc2Rk4SjK3kF%2B741rGYekz5MyNLzcqxQhgJVweYJMpl6uKuY26cBaE7BQ964Qzw9Poq2RpXvilwZXdtQyKO%2BKNyN2OVRmIJZBlk%2BtqXU4TLS%2Bt36mXW0NgmsncP4j8W4RUxJpHqeuyBKGlyFUYvY42N67DVIFFlB50ZH99BBQJiCeXKL0EN9pSuLsC%2BetdOA4sNoP8kO6pZrbD3PFbZIETO%2BUkLkgcUkmDOSO3ihesyKrJN3GpdNhO6GZceeaoTDq8Wpp9EmL7rDPLMUkrGo1RXcMXTz%2BtCyg3Lj2cRW3593sBYiB1U2XW3HStJC0DX1gzhWpw5IRQdgQ0vqH%2B8EssDYpWsqwomL%2BIgQU2DBeYacR3v%2Fa05YE585xh0xH6y4bg%2FmoEW5a0tCidsHX5YkQxxuhBVcbMXnoFLvLjRsZJSbF4y5gcbawQ7%2F5uGFyiPbCq%2BVl%2FMgp6gZwdBUwXS55%2FYXFrKdXgXYYm9bCAsyIbNvdcT9CUYQV%2F%2BdOT%2BWJxYn66bcPzTbdkaZq%2FpQincgW7njgIMDQfpZw6sC2DamNJJFTu8K8yDgEDlxR9DB3wi8iF6H1gBbVZ7irFKsdnGmeW0GTU7sGpCJEaex1hHlhYBZMSlGy8vwsfI0csLEehiUNOuk2MPXXobQGOrEBcLWKjzOfSnv3RlZZRxRe68p%2FhA70ReDo2nrfT0o1vf47huJQXum5lpofYOTHhU9iYluZTOJTteC1LUPwtKwoTssUGral5%2Fmd%2FbwuspTMIef7xtJXv%2FkpF8Qx98%2FDOmvUk5GoPQ8W8fpCbItyc6MY5u%2FILSEqZPtmxpqWQOkoOeEXwjHanpgfGzegpAjY9xy2V2a4owTKFrZ9TqhBxoBwirQdge0dJdgQUuMUZLUUPrIC&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240705T230054Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFEDIY7GD6%2F20240705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=989f03a953f3f5a90bebb8e68c2549dfa674721b12ae471aa0d44e028a205278",
+          "source": "Serious Eats",
+          "url": "https://www.seriouseats.com/basic-rotisserie-chicken-recipe",
+          "shareAs": "http://www.edamam.com/recipe/rotisserie-chicken-recipe-8d3e4b9299664a1ca8e6f5bdb8532300/chicken/alcohol-free/591-722-cal",
+          "yield": 4,
+          "ingredientLines": [
+            "1 whole chicken, about 4 pounds",
+            "2 tablespoons kosher salt",
+            "2 tablespoons butter, melted"
+          ],
+          "ingredients": [
+            {
+              "text": "1 whole chicken, about 4 pounds",
+              "quantity": 4,
+              "measure": "pound",
+              "food": "chicken",
+              "weight": 1814.36948,
+              "foodCategory": "Poultry",
+              "foodId": "food_bmyxrshbfao9s1amjrvhoauob6mo",
+              "image": "https://www.edamam.com/food-img/d33/d338229d774a743f7858f6764e095878.jpg"
+            },
+            {
+              "text": "2 tablespoons kosher salt",
+              "quantity": 2,
+              "measure": "tablespoon",
+              "food": "kosher salt",
+              "weight": 29.124999999507587,
+              "foodCategory": "Condiments and sauces",
+              "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+              "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+            },
+            {
+              "text": "2 tablespoons butter, melted",
+              "quantity": 2,
+              "measure": "tablespoon",
+              "food": "butter",
+              "weight": 28.4,
+              "foodCategory": "Dairy",
+              "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+              "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+            }
+          ],
+          "calories": 2856.23617976,
+          "totalWeight": 1851.5802008708001,
+          "totalTime": 540,
+          "totalNutrients": {
+            "FAT": {
+              "label": "Fat",
+              "quantity": 209.33185820639997,
+              "unit": "g"
+            },
+            "CHOCDF": {
+              "label": "Carbs",
+              "quantity": 0.017039999999999996,
+              "unit": "g"
+            },
+            "PROCNT": {
+              "label": "Protein",
+              "quantity": 229.7228518304,
+              "unit": "g"
+            }
+          }
+        },
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8d3e4b9299664a1ca8e6f5bdb8532300",
+          "label": "Rotisserie Chicken Recipe",
+          "image": "https://edamam-product-images.s3.amazonaws.com/web-img/88e/88edb31264dc1e58b37c2fec3f99a244.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLWVhc3QtMSJHMEUCIQDjppfAK4qzjYfLPdCSv0AGDy1yvXfqjWnbFnVL6wvH6AIgVWsuQ3xpRCCxgp5uB%2BKCjUvamrdDB7td493oM6IYtFcqwgUIx%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDCh9DBRlNwuXbdohYCqWBewuInyG%2BtsT7ztASn3HIXC89UwoQrPhxR1hTLxjTdGiRWL6m7BLPHIO%2BrCx7dmKpQ0a1Dds3ZKhNudeofp0fDACz%2F%2Bfdtoau9yV2lmIuIuEvf0hUxg4%2BbJ2nSkzixP1zU2Yg7u0ohOPXJ6FP%2F4j5UyTKIn7AKKVfKEYkSd0BxAh3jSy4jlSiaBZezGE3xhiMkKQU6uOnqiHuMVkYy4Yiza80egTsWgVfBpzUzVoVldioQuSc2Rk4SjK3kF%2B741rGYekz5MyNLzcqxQhgJVweYJMpl6uKuY26cBaE7BQ964Qzw9Poq2RpXvilwZXdtQyKO%2BKNyN2OVRmIJZBlk%2BtqXU4TLS%2Bt36mXW0NgmsncP4j8W4RUxJpHqeuyBKGlyFUYvY42N67DVIFFlB50ZH99BBQJiCeXKL0EN9pSuLsC%2BetdOA4sNoP8kO6pZrbD3PFbZIETO%2BUkLkgcUkmDOSO3ihesyKrJN3GpdNhO6GZceeaoTDq8Wpp9EmL7rDPLMUkrGo1RXcMXTz%2BtCyg3Lj2cRW3593sBYiB1U2XW3HStJC0DX1gzhWpw5IRQdgQ0vqH%2B8EssDYpWsqwomL%2BIgQU2DBeYacR3v%2Fa05YE585xh0xH6y4bg%2FmoEW5a0tCidsHX5YkQxxuhBVcbMXnoFLvLjRsZJSbF4y5gcbawQ7%2F5uGFyiPbCq%2BVl%2FMgp6gZwdBUwXS55%2FYXFrKdXgXYYm9bCAsyIbNvdcT9CUYQV%2F%2BdOT%2BWJxYn66bcPzTbdkaZq%2FpQincgW7njgIMDQfpZw6sC2DamNJJFTu8K8yDgEDlxR9DB3wi8iF6H1gBbVZ7irFKsdnGmeW0GTU7sGpCJEaex1hHlhYBZMSlGy8vwsfI0csLEehiUNOuk2MPXXobQGOrEBcLWKjzOfSnv3RlZZRxRe68p%2FhA70ReDo2nrfT0o1vf47huJQXum5lpofYOTHhU9iYluZTOJTteC1LUPwtKwoTssUGral5%2Fmd%2FbwuspTMIef7xtJXv%2FkpF8Qx98%2FDOmvUk5GoPQ8W8fpCbItyc6MY5u%2FILSEqZPtmxpqWQOkoOeEXwjHanpgfGzegpAjY9xy2V2a4owTKFrZ9TqhBxoBwirQdge0dJdgQUuMUZLUUPrIC&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240705T230054Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFEDIY7GD6%2F20240705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=989f03a953f3f5a90bebb8e68c2549dfa674721b12ae471aa0d44e028a205278",
+          "source": "Serious Eats",
+          "url": "https://www.seriouseats.com/basic-rotisserie-chicken-recipe",
+          "shareAs": "http://www.edamam.com/recipe/rotisserie-chicken-recipe-8d3e4b9299664a1ca8e6f5bdb8532300/chicken/alcohol-free/591-722-cal",
+          "yield": 4,
+          "ingredientLines": [
+            "1 whole chicken, about 4 pounds",
+            "2 tablespoons kosher salt",
+            "2 tablespoons butter, melted"
+          ],
+          "ingredients": [
+            {
+              "text": "1 whole chicken, about 4 pounds",
+              "quantity": 4,
+              "measure": "pound",
+              "food": "chicken",
+              "weight": 1814.36948,
+              "foodCategory": "Poultry",
+              "foodId": "food_bmyxrshbfao9s1amjrvhoauob6mo",
+              "image": "https://www.edamam.com/food-img/d33/d338229d774a743f7858f6764e095878.jpg"
+            },
+            {
+              "text": "2 tablespoons kosher salt",
+              "quantity": 2,
+              "measure": "tablespoon",
+              "food": "kosher salt",
+              "weight": 29.124999999507587,
+              "foodCategory": "Condiments and sauces",
+              "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+              "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+            },
+            {
+              "text": "2 tablespoons butter, melted",
+              "quantity": 2,
+              "measure": "tablespoon",
+              "food": "butter",
+              "weight": 28.4,
+              "foodCategory": "Dairy",
+              "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+              "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+            }
+          ],
+          "calories": 2856.23617976,
+          "totalWeight": 1851.5802008708001,
+          "totalTime": 540,
+          "totalNutrients": {
+            "FAT": {
+              "label": "Fat",
+              "quantity": 209.33185820639997,
+              "unit": "g"
+            },
+            "CHOCDF": {
+              "label": "Carbs",
+              "quantity": 0.017039999999999996,
+              "unit": "g"
+            },
+            "PROCNT": {
+              "label": "Protein",
+              "quantity": 229.7228518304,
+              "unit": "g"
+            }
+          }
+        },
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8d3e4b9299664a1ca8e6f5bdb8532300",
+          "label": "Rotisserie Chicken Recipe",
+          "image": "https://edamam-product-images.s3.amazonaws.com/web-img/88e/88edb31264dc1e58b37c2fec3f99a244.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLWVhc3QtMSJHMEUCIQDjppfAK4qzjYfLPdCSv0AGDy1yvXfqjWnbFnVL6wvH6AIgVWsuQ3xpRCCxgp5uB%2BKCjUvamrdDB7td493oM6IYtFcqwgUIx%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDCh9DBRlNwuXbdohYCqWBewuInyG%2BtsT7ztASn3HIXC89UwoQrPhxR1hTLxjTdGiRWL6m7BLPHIO%2BrCx7dmKpQ0a1Dds3ZKhNudeofp0fDACz%2F%2Bfdtoau9yV2lmIuIuEvf0hUxg4%2BbJ2nSkzixP1zU2Yg7u0ohOPXJ6FP%2F4j5UyTKIn7AKKVfKEYkSd0BxAh3jSy4jlSiaBZezGE3xhiMkKQU6uOnqiHuMVkYy4Yiza80egTsWgVfBpzUzVoVldioQuSc2Rk4SjK3kF%2B741rGYekz5MyNLzcqxQhgJVweYJMpl6uKuY26cBaE7BQ964Qzw9Poq2RpXvilwZXdtQyKO%2BKNyN2OVRmIJZBlk%2BtqXU4TLS%2Bt36mXW0NgmsncP4j8W4RUxJpHqeuyBKGlyFUYvY42N67DVIFFlB50ZH99BBQJiCeXKL0EN9pSuLsC%2BetdOA4sNoP8kO6pZrbD3PFbZIETO%2BUkLkgcUkmDOSO3ihesyKrJN3GpdNhO6GZceeaoTDq8Wpp9EmL7rDPLMUkrGo1RXcMXTz%2BtCyg3Lj2cRW3593sBYiB1U2XW3HStJC0DX1gzhWpw5IRQdgQ0vqH%2B8EssDYpWsqwomL%2BIgQU2DBeYacR3v%2Fa05YE585xh0xH6y4bg%2FmoEW5a0tCidsHX5YkQxxuhBVcbMXnoFLvLjRsZJSbF4y5gcbawQ7%2F5uGFyiPbCq%2BVl%2FMgp6gZwdBUwXS55%2FYXFrKdXgXYYm9bCAsyIbNvdcT9CUYQV%2F%2BdOT%2BWJxYn66bcPzTbdkaZq%2FpQincgW7njgIMDQfpZw6sC2DamNJJFTu8K8yDgEDlxR9DB3wi8iF6H1gBbVZ7irFKsdnGmeW0GTU7sGpCJEaex1hHlhYBZMSlGy8vwsfI0csLEehiUNOuk2MPXXobQGOrEBcLWKjzOfSnv3RlZZRxRe68p%2FhA70ReDo2nrfT0o1vf47huJQXum5lpofYOTHhU9iYluZTOJTteC1LUPwtKwoTssUGral5%2Fmd%2FbwuspTMIef7xtJXv%2FkpF8Qx98%2FDOmvUk5GoPQ8W8fpCbItyc6MY5u%2FILSEqZPtmxpqWQOkoOeEXwjHanpgfGzegpAjY9xy2V2a4owTKFrZ9TqhBxoBwirQdge0dJdgQUuMUZLUUPrIC&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240705T230054Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFEDIY7GD6%2F20240705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=989f03a953f3f5a90bebb8e68c2549dfa674721b12ae471aa0d44e028a205278",
+          "source": "Serious Eats",
+          "url": "https://www.seriouseats.com/basic-rotisserie-chicken-recipe",
+          "shareAs": "http://www.edamam.com/recipe/rotisserie-chicken-recipe-8d3e4b9299664a1ca8e6f5bdb8532300/chicken/alcohol-free/591-722-cal",
+          "yield": 4,
+          "ingredientLines": [
+            "1 whole chicken, about 4 pounds",
+            "2 tablespoons kosher salt",
+            "2 tablespoons butter, melted"
+          ],
+          "ingredients": [
+            {
+              "text": "1 whole chicken, about 4 pounds",
+              "quantity": 4,
+              "measure": "pound",
+              "food": "chicken",
+              "weight": 1814.36948,
+              "foodCategory": "Poultry",
+              "foodId": "food_bmyxrshbfao9s1amjrvhoauob6mo",
+              "image": "https://www.edamam.com/food-img/d33/d338229d774a743f7858f6764e095878.jpg"
+            },
+            {
+              "text": "2 tablespoons kosher salt",
+              "quantity": 2,
+              "measure": "tablespoon",
+              "food": "kosher salt",
+              "weight": 29.124999999507587,
+              "foodCategory": "Condiments and sauces",
+              "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+              "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+            },
+            {
+              "text": "2 tablespoons butter, melted",
+              "quantity": 2,
+              "measure": "tablespoon",
+              "food": "butter",
+              "weight": 28.4,
+              "foodCategory": "Dairy",
+              "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+              "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+            }
+          ],
+          "calories": 2856.23617976,
+          "totalWeight": 1851.5802008708001,
+          "totalTime": 540,
+          "totalNutrients": {
+            "FAT": {
+              "label": "Fat",
+              "quantity": 209.33185820639997,
+              "unit": "g"
+            },
+            "CHOCDF": {
+              "label": "Carbs",
+              "quantity": 0.017039999999999996,
+              "unit": "g"
+            },
+            "PROCNT": {
+              "label": "Protein",
+              "quantity": 229.7228518304,
+              "unit": "g"
+            }
+          }
+        },
+        {
+          "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8d3e4b9299664a1ca8e6f5bdb8532300",
+          "label": "Rotisserie Chicken Recipe",
+          "image": "https://edamam-product-images.s3.amazonaws.com/web-img/88e/88edb31264dc1e58b37c2fec3f99a244.jpg?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEA4aCXVzLWVhc3QtMSJHMEUCIQDjppfAK4qzjYfLPdCSv0AGDy1yvXfqjWnbFnVL6wvH6AIgVWsuQ3xpRCCxgp5uB%2BKCjUvamrdDB7td493oM6IYtFcqwgUIx%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwxODcwMTcxNTA5ODYiDCh9DBRlNwuXbdohYCqWBewuInyG%2BtsT7ztASn3HIXC89UwoQrPhxR1hTLxjTdGiRWL6m7BLPHIO%2BrCx7dmKpQ0a1Dds3ZKhNudeofp0fDACz%2F%2Bfdtoau9yV2lmIuIuEvf0hUxg4%2BbJ2nSkzixP1zU2Yg7u0ohOPXJ6FP%2F4j5UyTKIn7AKKVfKEYkSd0BxAh3jSy4jlSiaBZezGE3xhiMkKQU6uOnqiHuMVkYy4Yiza80egTsWgVfBpzUzVoVldioQuSc2Rk4SjK3kF%2B741rGYekz5MyNLzcqxQhgJVweYJMpl6uKuY26cBaE7BQ964Qzw9Poq2RpXvilwZXdtQyKO%2BKNyN2OVRmIJZBlk%2BtqXU4TLS%2Bt36mXW0NgmsncP4j8W4RUxJpHqeuyBKGlyFUYvY42N67DVIFFlB50ZH99BBQJiCeXKL0EN9pSuLsC%2BetdOA4sNoP8kO6pZrbD3PFbZIETO%2BUkLkgcUkmDOSO3ihesyKrJN3GpdNhO6GZceeaoTDq8Wpp9EmL7rDPLMUkrGo1RXcMXTz%2BtCyg3Lj2cRW3593sBYiB1U2XW3HStJC0DX1gzhWpw5IRQdgQ0vqH%2B8EssDYpWsqwomL%2BIgQU2DBeYacR3v%2Fa05YE585xh0xH6y4bg%2FmoEW5a0tCidsHX5YkQxxuhBVcbMXnoFLvLjRsZJSbF4y5gcbawQ7%2F5uGFyiPbCq%2BVl%2FMgp6gZwdBUwXS55%2FYXFrKdXgXYYm9bCAsyIbNvdcT9CUYQV%2F%2BdOT%2BWJxYn66bcPzTbdkaZq%2FpQincgW7njgIMDQfpZw6sC2DamNJJFTu8K8yDgEDlxR9DB3wi8iF6H1gBbVZ7irFKsdnGmeW0GTU7sGpCJEaex1hHlhYBZMSlGy8vwsfI0csLEehiUNOuk2MPXXobQGOrEBcLWKjzOfSnv3RlZZRxRe68p%2FhA70ReDo2nrfT0o1vf47huJQXum5lpofYOTHhU9iYluZTOJTteC1LUPwtKwoTssUGral5%2Fmd%2FbwuspTMIef7xtJXv%2FkpF8Qx98%2FDOmvUk5GoPQ8W8fpCbItyc6MY5u%2FILSEqZPtmxpqWQOkoOeEXwjHanpgfGzegpAjY9xy2V2a4owTKFrZ9TqhBxoBwirQdge0dJdgQUuMUZLUUPrIC&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240705T230054Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=ASIASXCYXIIFEDIY7GD6%2F20240705%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=989f03a953f3f5a90bebb8e68c2549dfa674721b12ae471aa0d44e028a205278",
+          "source": "Serious Eats",
+          "url": "https://www.seriouseats.com/basic-rotisserie-chicken-recipe",
+          "shareAs": "http://www.edamam.com/recipe/rotisserie-chicken-recipe-8d3e4b9299664a1ca8e6f5bdb8532300/chicken/alcohol-free/591-722-cal",
+          "yield": 4,
+          "ingredientLines": [
+            "1 whole chicken, about 4 pounds",
+            "2 tablespoons kosher salt",
+            "2 tablespoons butter, melted"
+          ],
+          "ingredients": [
+            {
+              "text": "1 whole chicken, about 4 pounds",
+              "quantity": 4,
+              "measure": "pound",
+              "food": "chicken",
+              "weight": 1814.36948,
+              "foodCategory": "Poultry",
+              "foodId": "food_bmyxrshbfao9s1amjrvhoauob6mo",
+              "image": "https://www.edamam.com/food-img/d33/d338229d774a743f7858f6764e095878.jpg"
+            },
+            {
+              "text": "2 tablespoons kosher salt",
+              "quantity": 2,
+              "measure": "tablespoon",
+              "food": "kosher salt",
+              "weight": 29.124999999507587,
+              "foodCategory": "Condiments and sauces",
+              "foodId": "food_a1vgrj1bs8rd1majvmd9ubz8ttkg",
+              "image": "https://www.edamam.com/food-img/694/6943ea510918c6025795e8dc6e6eaaeb.jpg"
+            },
+            {
+              "text": "2 tablespoons butter, melted",
+              "quantity": 2,
+              "measure": "tablespoon",
+              "food": "butter",
+              "weight": 28.4,
+              "foodCategory": "Dairy",
+              "foodId": "food_awz3iefajbk1fwahq9logahmgltj",
+              "image": "https://www.edamam.com/food-img/713/71397239b670d88c04faa8d05035cab4.jpg"
+            }
+          ],
+          "calories": 2856.23617976,
+          "totalWeight": 1851.5802008708001,
+          "totalTime": 540,
+          "totalNutrients": {
+            "FAT": {
+              "label": "Fat",
+              "quantity": 209.33185820639997,
+              "unit": "g"
+            },
+            "CHOCDF": {
+              "label": "Carbs",
+              "quantity": 0.017039999999999996,
+              "unit": "g"
+            },
+            "PROCNT": {
+              "label": "Protein",
+              "quantity": 229.7228518304,
+              "unit": "g"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
